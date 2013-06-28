@@ -1,4 +1,1 @@
-InterviewPractice
-=================
-
-Practice questions for interviews
+Some random algo problems.
